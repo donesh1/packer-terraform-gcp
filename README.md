@@ -9,7 +9,7 @@
     a. packer Validate packer1.json (to validate the configruation)
     b. packer validate packer1.json (To build the custom image)
 
-# Create COmpute Instances using Custom Image with Terraform
+# Create Compute Instances using Custom Image with Terraform
 1. Creat a working directory
 2. Install Terraform depeding on the OS https://developer.hashicorp.com/terraform/downloads 
 3. Commands to execute
