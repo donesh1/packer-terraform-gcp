@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "packer-lab-378821",
+  "private_key_id": "941fa6a58b6799bc46f5bb3d137c77156d189a76",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCpUUy2Ey5jFVDk\nsM/5PeAqu6X6KEMe+dPDz/7yz3WcN4KBMxAa0aK9zR5M1XWHkttCX2lgg+hQ0xzv\n61B7ja1iOpWSmnjRPAoUXuXZX37h8EngKHuptvsc7pf5g33ugOwQ1hvtaa7tEBJp\nttYDAmmjFdvJxxnJpvL2rLB7hG0v9mrBPdId/vTQ5JWzbOADwMZacR7PFt0Hy2RJ\n/blNuYp3Mxi5gS6mcHqYDNlc+vK+P6cGvgLucnN8IYlpvFfGeSL4U+GPYxPPOuVE\ntrsX5vSNRpvYzUGKuQPShVjeD0HZgbR4Ow56+I2XPByLCgb2UymPosb0dBvwWWAP\nXhjhxqsjAgMBAAECggEAR22wRnl2Dr+91hRPUG7NhEmQXiWhF06+ivNSsx1ZGNOE\nHzwq9Z1todOIDlLY155ZGDmHC3vqRDqjkQU8+TqOJAvh8Kxw/pftCqX0Ik06ildj\n2whJDxJOAmkXPOA/fp/ttraUpoX4kTLACc/jnfZlGTNN+uQfGWZwRicY9qqpo1sJ\nulIQEFrKxjsM8igKL0oiWbkUx5HpPOieW+HKu3lMMJGOyId+miSggWIgc6otjSlu\neBpv3TrbMPLWz2AIGmEzeOe/A+DTniE42ifihPL63wR/k49OWknngGXOPjQ2fZlV\n0UAgzu6pvU2ztTz4gu3uQR4ts5me7qDVVX/FhHLvHQKBgQDc9HVpptBolQBDXfM9\ns/x/qzAwbHDKlJDh8thoTU/fULmO6H8xTlsllfBwM+wFitguunokjLsismZRUfhF\nfsPFl9QavfX371HhYU96MYue+pq+6LKvH60+37osEOKzWwCJTbiN+2lWEi0z0fvS\nWeszi4rcOXdfQtvlG4/jdbFxvwKBgQDELC9FqP6G9xKj6FM8laBJvdQfp0Jh2fMH\nTRfgE2iAFy9mRMj6Zfc5QfVIL1NjhhwKmeWiw2o1W9hEprlBsG8z6+gzV49KQ8is\nE+D9fiRVvoeieS1DTgK6vLJ+Ia0NcVDtguj3Wgpeyz7Hu2o8vd2WH/qTUaA5zXqg\n9GDslLRXnQKBgEuVqLCqqvKLvhpNgk8iSgcWdZarEe6K4gEZRORxRhh7ke6MJC6m\nwlFaOHT5ngzLUWayzePA7KdS5eN9qfOECM6IQLuhLgpRqO3zju+bEUsiKVuTWMTF\njktK13IJmLOINufBWZfgYElcUHBAredocSgh3S+2zNoekgCO7CsAcOIbAoGAdHnH\nl5S/i2MnripDQbWVdjM/v4uP3omJwswDYQglA+jAO/ibXBEuuNBw0mtHF9CI1cKK\nlhlw9j2SKzDSzi3z2OA4/kL+0RluDL3A2MIM0NxPrChGt6+Z70YatMlJ9rFRW7Re\nnn7XqXED1ZNxgJ868egK322XtLpMFUUER3QDoAECgYBwIfXpxP/LymLVCQnmoqaz\nnAjaj4E4HZ04bFhIvBKV6ICix4Rzmjc2U17N3WE/pNurvgCPpGN6NcN0dRB5jy2I\naiD0vBvINqa3tdPKL2RD3Y3yXBqYcvsBXZvKc8BHOk17nIn2uhonsGjZMO9jyrYi\nXkC1r3cYFrtmo+R2ZJYMKg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "terraform-packer@packer-lab-378821.iam.gserviceaccount.com",
+  "client_id": "116425000048765211389",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/terraform-packer%40packer-lab-378821.iam.gserviceaccount.com"
+}
